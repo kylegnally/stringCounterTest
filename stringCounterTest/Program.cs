@@ -74,7 +74,7 @@ namespace stringCounterTest
             
             foreach (CharacterFrequency character in allCharsAsObj)
             {
-                Console.WriteLine("Character " + character.Character + " appears " + character.Frequency + "times in the array.");
+                Console.WriteLine("Character " + character.Character + " appears " + character.Frequency + " times in the array.\n");
             }
 
         }
