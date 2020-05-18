@@ -1,0 +1,7 @@
+D:\My Classes\data structures\codeTests\stringCounterTest\stringCounterTest\bin\Debug\stringCounterTest.exe.config
+D:\My Classes\data structures\codeTests\stringCounterTest\stringCounterTest\bin\Debug\stringCounterTest.exe
+D:\My Classes\data structures\codeTests\stringCounterTest\stringCounterTest\bin\Debug\stringCounterTest.pdb
+D:\My Classes\data structures\codeTests\stringCounterTest\stringCounterTest\obj\Debug\stringCounterTest.csprojAssemblyReference.cache
+D:\My Classes\data structures\codeTests\stringCounterTest\stringCounterTest\obj\Debug\stringCounterTest.csproj.CoreCompileInputs.cache
+D:\My Classes\data structures\codeTests\stringCounterTest\stringCounterTest\obj\Debug\stringCounterTest.exe
+D:\My Classes\data structures\codeTests\stringCounterTest\stringCounterTest\obj\Debug\stringCounterTest.pdb
