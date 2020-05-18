@@ -71,13 +71,16 @@ namespace stringCounterTest
                     }
                 }
             }
-            
+
+            // At this point I need to figure out how to count the number of times
+            // each character is appearing, as the output is showing
+            // one for each time.
             foreach (CharacterFrequency character in allCharsAsObj)
             {
                 Console.WriteLine("Character " + character.Character + " appears " + character.Frequency + " times in the array.\n");
             }
+            Console.WriteLine("Have a day!");
 
         }
-
     }
 }
